@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd0ae4f8-5b20-4baa-be74-0b53698050c9" name="Changes" comment="" />
+    <list default="true" id="cd0ae4f8-5b20-4baa-be74-0b53698050c9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/AddUser.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/AddUser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/User.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/User.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Users.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Users.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/main.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +33,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2GzqY2y8cBqhUycM1aKHMFsQlSi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -74,7 +83,8 @@
       <workItem from="1667471309444" duration="4481000" />
       <workItem from="1667476394762" duration="4534000" />
       <workItem from="1667480992736" duration="1359000" />
-      <workItem from="1667488855631" duration="5840000" />
+      <workItem from="1667488855631" duration="6546000" />
+      <workItem from="1667732577645" duration="5206000" />
     </task>
     <servers />
   </component>
